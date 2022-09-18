@@ -38,7 +38,7 @@ const Main = () => {
         <button className='submit' type='submit' onClick={searchHanlder}><SearchIcon /></button>
         </div>
         {userdata.nodata===true?<div></div>:<User userdata ={userdata}></User>}
-        {repodata.length >0 ?<Repo repodata = {repodata} ></Repo>:<div>yes</div>}
+        {repodata.length >0 ?<Repo repodata = {repodata} ></Repo>:<div></div>}
     </div>
   )
 }
