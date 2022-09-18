@@ -1,3 +1,9 @@
+# Starting page
+![Screenshot (24)](https://user-images.githubusercontent.com/61886184/190919561-48ef28ee-ce53-44d0-a38c-bcb73680425b.png)
+# searched user 
+![Screenshot (25)](https://user-images.githubusercontent.com/61886184/190919620-a4975370-cec9-48a0-9989-ed86e5be9fea.png)
+# Pagination 
+![Screenshot (38)](https://user-images.githubusercontent.com/61886184/190919665-1d1d4463-31a6-42b6-9e4d-c26d6b5a311d.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
